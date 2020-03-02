@@ -2,9 +2,17 @@ package israa;
 
 public class add {
 
-	public static void main(String[] args) {
+
+	
+	public long add1(int a, int b) {
+		int x=a;
+		int y=b;
+		int z= x+y;
+		return z;
 		// TODO Auto-generated method stub
-System.out.print("hollo");
+	
 	}
+
+
 
 }
